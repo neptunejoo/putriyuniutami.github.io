@@ -68,13 +68,13 @@ body {
 }
 
 body {
-  background: #050505;
+  background: #d9d9d9;
   font-family: "Lora", serif;
   font-size: 1.7rem;
   font-style: normal;
   font-weight: normal;
   line-height: 1.882;
-  color: #293731;
+  color: #425154;
   margin: 0;
   padding: 0;
 }
@@ -83,14 +83,14 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-  color: #ad712c;
+  color: #d9d9d9;
   transition: all 0.3s ease-in-out;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #293731;
+  color: #425154;
 }
 
 a:hover,
@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "Frank Ruhl Libre", serif;
   font-weight: 500;
   font-style: normal;
-  color: #293731;
+  color: #425154;
   font-variant-ligatures: common-ligatures;
   text-rendering: optimizeLegibility;
 }
@@ -188,7 +188,7 @@ p.lead {
   font-size: 2.4rem;
   line-height: 1.833;
   margin-bottom: 3.6rem;
-  color: #293731;
+  color: #425154;
 }
 
 @media screen and (max-width:1200px) {
@@ -247,7 +247,7 @@ blockquote p {
   padding: 0;
   font-size: 2.1rem;
   line-height: 1.905;
-  color: #293731;
+  color: #425154;
 }
 
 blockquote cite {
@@ -299,7 +299,7 @@ code {
   white-space: nowrap;
   background: #e0e0e0;
   border: 1px solid #c3c3c3;
-  color: #293731;
+  color: #425154;
   border-radius: 3px;
 }
 
@@ -328,7 +328,7 @@ dfn[title] {
 
 mark {
   background: #fff099;
-  color: #293731;
+  color: #425154;
 }
 
 hr {
@@ -392,7 +392,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #ad712c;
+  color: #d9d9d9;
 }
 
 dd {
@@ -450,7 +450,7 @@ td {
 }
 
 th {
-  color: #293731;
+  color: #425154;
   font-family: "Lora", serif;
   font-weight: 700;
 }
@@ -626,7 +626,7 @@ select {
   padding: 1.6rem 0 1.5rem;
   border: 0;
   outline: none;
-  color: #293731;
+  color: #425154;
   font-family: "Roboto", sans-serif;
   font-size: 1.6rem;
   line-height: 3.2rem;
@@ -662,8 +662,8 @@ select {
 }
 
 .ss-custom-select::after {
-  border-bottom: 2px solid #293731;
-  border-right: 2px solid #293731;
+  border-bottom: 2px solid #425154;
+  border-right: 2px solid #425154;
   content: '';
   display: block;
   height: 8px;
@@ -693,8 +693,8 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-  color: #293731;
-  border-bottom: 1px solid #293731;
+  color: #425154;
+  border-bottom: 1px solid #425154;
 }
 
 label,
@@ -704,7 +704,7 @@ legend {
   font-size: 1.4rem;
   margin-bottom: .8rem;
   line-height: 1.714;
-  color: #293731;
+  color: #425154;
   display: block;
 }
 
@@ -810,7 +810,7 @@ input[type="button"] {
   line-height: 5.6rem;
   padding: 0 3.2rem;
   margin: 0 .4rem 1.6rem 0;
-  color: #293731;
+  color: #425154;
   text-decoration: none;
   text-align: center;
   white-space: nowrap;
@@ -834,7 +834,7 @@ input[type="reset"]:focus,
 input[type="button"]:focus {
   background-color: #c3c3c3;
   border-color: #c3c3c3;
-  color: #293731;
+  color: #425154;
   outline: 0;
 }
 
@@ -845,8 +845,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #293731;
-  border-color: #293731;
+  background: #425154;
+  border-color: #425154;
   color: #ffffff;
 }
 
@@ -887,14 +887,14 @@ button.btn--large {
 .btn--stroke,
 button.btn--stroke {
   background: transparent !important;
-  border: 0.2rem solid #293731;
-  color: #293731;
+  border: 0.2rem solid #425154;
+  color: #425154;
 }
 
 .btn--stroke:hover,
 button.btn--stroke:hover {
-  background: #293731 !important;
-  border: 0.2rem solid #293731;
+  background: #425154 !important;
+  border: 0.2rem solid #425154;
   color: #ffffff;
 }
 
@@ -934,7 +934,7 @@ input::-moz-focus-inner {
   line-height: 6rem;
   text-indent: 0;
   background: transparent;
-  color: #293731;
+  color: #425154;
 }
 
 /* line definition style 
@@ -1036,7 +1036,7 @@ input::-moz-focus-inner {
   padding: 0;
   font-size: 2.1rem;
   line-height: 1.905;
-  color: #293731;
+  color: #425154;
 }
 
 .pull-quote blockquote:before {
@@ -1079,11 +1079,11 @@ input::-moz-focus-inner {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   border: none;
-  color: #293731;
+  color: #425154;
 }
 
 .stats-tabs li a:hover {
-  color: #ad712c;
+  color: #d9d9d9;
 }
 
 .stats-tabs li a em {
@@ -1119,7 +1119,7 @@ input::-moz-focus-inner {
   top: -4rem;
   font-family: "Roboto", sans-serif;
   font-weight: 700;
-  color: #293731;
+  color: #425154;
   text-transform: uppercase;
   letter-spacing: .2rem;
   font-size: 1.4rem;
@@ -1127,7 +1127,7 @@ input::-moz-focus-inner {
 }
 
 .skill-bars li .progress {
-  background: #293731;
+  background: #425154;
   position: relative;
   height: 100%;
 }
@@ -1141,7 +1141,7 @@ input::-moz-focus-inner {
   color: #ffffff;
   font-size: 1.1rem;
   line-height: 1;
-  background: #293731;
+  background: #425154;
   padding: .8rem .8rem;
   border-radius: 3px;
 }
@@ -1154,7 +1154,7 @@ input::-moz-focus-inner {
   width: 0;
   height: 0;
   border: 5px solid transparent;
-  border-top-color: #293731;
+  border-top-color: #425154;
   content: "";
 }
 
@@ -1354,14 +1354,14 @@ input::-moz-focus-inner {
   padding: .2rem 1.2rem;
   height: 3.6rem;
   margin: .2rem .2rem;
-  color: #293731;
+  color: #425154;
   border-radius: 4px;
   transition: all, .3s, ease-in-out;
 }
 
 .pgn__num:hover {
   background: #d3d3d3;
-  color: #293731;
+  color: #425154;
 }
 
 .pgn .current,
@@ -1502,7 +1502,7 @@ input::-moz-focus-inner {
   font-weight: 400;
   line-height: 1.259;
   letter-spacing: -0.05rem;
-  color: #293731;
+  color: #425154;
 }
 
 .item-title {
@@ -1511,7 +1511,7 @@ input::-moz-focus-inner {
   font-weight: 500;
   line-height: 1.222;
   margin-top: 0;
-  color: #293731;
+  color: #425154;
 }
 
 .ss-dark .section-heading,
@@ -1943,7 +1943,7 @@ input::-moz-focus-inner {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #293731;
+  background-color: #425154;
   opacity: .2;
 }
 
@@ -1970,7 +1970,7 @@ input::-moz-focus-inner {
   font-size: 2.4rem;
   font-weight: 500;
   line-height: 1.333;
-  color: #eedae3;
+  color: #eed7b7;
   margin-top: 0;
 }
 
@@ -2295,7 +2295,7 @@ input::-moz-focus-inner {
   display: block;
   width: 3px;
   height: 4.8rem;
-  background-color: #293731;
+  background-color: #425154;
   position: absolute;
   left: -1px;
   top: 8px;
@@ -2317,7 +2317,7 @@ input::-moz-focus-inner {
   text-transform: uppercase;
   letter-spacing: .3rem;
   margin-bottom: .8rem;
-  color: #293731;
+  color: #425154;
 }
 
 .timeline__header h3 {
@@ -2578,7 +2578,7 @@ input::-moz-focus-inner {
   font-weight: 300;
   font-size: 8rem;
   line-height: 1;
-  color: #ad712c;
+  color: #d9d9d9;
 }
 
 /* ------------------------------------------------------------------- 
@@ -2656,7 +2656,7 @@ input::-moz-focus-inner {
 .s-cta {
   padding-top: 13.5rem;
   padding-bottom: 13.6rem;
-  background-color: #293731;
+  background-color: #425154;
   border-top: 1px solid rgba(255, 255, 255, 0.03);
   font-size: 2.4rem;
   line-height: 1.833;
@@ -2671,7 +2671,7 @@ input::-moz-focus-inner {
 .s-cta a:hover,
 .s-cta a:focus,
 .s-cta a:active {
-  color: #ad712c;
+  color: #d9d9d9;
 }
 
 .s-cta .section-desc {
@@ -2692,7 +2692,7 @@ input::-moz-focus-inner {
 .cta-content .btn:focus {
   background-color: #ffffff;
   border: 0.2rem solid #ffffff;
-  color: #293731;
+  color: #425154;
 }
 
 /* ------------------------------------------------------------------- 
@@ -2869,7 +2869,7 @@ input::-moz-focus-inner {
 
 .item-folio__title {
   font-weight: 500;
-  color: #293731;
+  color: #425154;
 }
 
 .item-folio__cat {
@@ -3046,7 +3046,7 @@ input::-moz-focus-inner {
   font-weight: 400;
   font-size: 4rem;
   line-height: 1.8;
-  color: #293731;
+  color: #425154;
 }
 
 .testimonials__slider {
@@ -3286,7 +3286,7 @@ input::-moz-focus-inner {
 .contact-main a:hover,
 .contact-main a:focus,
 .contact-main a:active {
-  color: #ad712c;
+  color: #d9d9d9;
   border-bottom: 1px solid white;
 }
 
@@ -3327,7 +3327,7 @@ input::-moz-focus-inner {
 .contact-infos a:hover,
 .contact-infos a:focus,
 .contact-infos a:active {
-  color: #ad712c;
+  color: #d9d9d9;
 }
 
 .contact-social ul {
